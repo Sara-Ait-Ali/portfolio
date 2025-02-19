@@ -155,7 +155,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.png"
+    # image: "/images/me.png"
     content: |-
       I am a first year student in computer science with a passion for web development and building robots . I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. 
 
@@ -166,6 +166,7 @@ params:
       items:
         - "Node"
         - "Python"
+        - "ONSHAPE"
 
   # Experience
   # experience:
@@ -283,7 +284,7 @@ params:
   #     - title: Google kickstart runner
   #       content: I solved all problems with optimal solution.
   #       url: https://example.com
-  #       image: /images/achievment.jpg
+  #       image: Users/saraaitali/Desktop/09c1561b-0058-4df0-9a4e-ca6fbb8128b0.jpeg
   #     - title: Facebook Hackathon Winner
   #       content: Developed a product using Artificial Intelligence.
   #       image: /images/achievment.jpg
@@ -302,9 +303,9 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Hugo Profile
-        content: coming soon 
-  #       image: /images/projects/profile.png
+      # - title: Hugo Profile
+      - content: coming soon!!
+        image: /images/09c1561b-0058-4df0-9a4e-ca6fbb8128b0.jpeg
   #       featured:
   #         name: Demo
   #         link: https://hugo-profile.netlify.app
